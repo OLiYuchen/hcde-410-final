@@ -36,7 +36,8 @@ This project will explore correlations between variables like demographics, medi
 - **Notebook:** `Asthma_Risk_Factors_Analysis.ipynb` - Contains the complete analysis, from data preprocessing to visualization, including code and insights.
 - **Final Report:** Explains the key findings, interpretations, and implications based on the analysis written at the top of notebook.
 - **README.md:** Provides a project overview, including objectives, dataset details, and instructions for reproducing the analysis.
-- **Figures Folder:** Contains all saved visualizations generated during the analysis.
+- **Figures:** Contains all visualizations generated during the analysis.
+- **Data File:** The downloaded data sheet in .csv from Kaggle. 
 
 ---
 
